@@ -15,20 +15,20 @@
 
 ## Bibliografia Básica:
 
-SILVA, Maurício Samy Silva. JavaScript: Guia do Programador. São Paulo: Novatec, 2010.
+* SILVA, Maurício Samy Silva. JavaScript: Guia do Programador. São Paulo: Novatec, 2010.
 
-HOGAN, Brian P. HTML 5 e CSS 3: Desenvolva hoje com o padrão de amanhã. Rio de Janeiro: Ciência Moderna, 2012.
+* HOGAN, Brian P. HTML 5 e CSS 3: Desenvolva hoje com o padrão de amanhã. Rio de Janeiro: Ciência Moderna, 2012.
 
 ## Bibliografia Complementar:
 
-SILVA, S. M. HTML 5: a linguagem de marcação que revolucionou a WEB. São Paulo, Novatec, 2011.
+* SILVA, S. M. HTML 5: a linguagem de marcação que revolucionou a WEB. São Paulo, Novatec, 2011.
 
-FREEMAN, Elisabeth; FREEMAN, Eric. Use a Cabeça! HTML com CSS e XHTML. 2 ed. Rio de Janeiro: Alta Books, 2008.
+* FREEMAN, Elisabeth; FREEMAN, Eric. Use a Cabeça! HTML com CSS e XHTML. 2 ed. Rio de Janeiro: Alta Books, 2008.
 
-[Apostila da Caelum](https://www.caelum.com.br/apostila-html-css-javascript/)
+* [Apostila da Caelum](https://www.caelum.com.br/apostila-html-css-javascript/)
 
-[W3C School- HTML](https://www.w3schools.com/html/)
+* [W3C School- HTML](https://www.w3schools.com/html/)
 
-[W3C School- CSS](https://www.w3schools.com/css/)
+* [W3C School- CSS](https://www.w3schools.com/css/)
 
-[W3C School- JS](https://www.w3schools.com/js/)
+* [W3C School- JS](https://www.w3schools.com/js/)
