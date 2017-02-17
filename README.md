@@ -15,9 +15,9 @@
 
 ## Bibliografia Básica:
 
-* SILVA, Maurício Samy Silva. JavaScript: Guia do Programador. São Paulo: Novatec, 2010.
+* [SILVA, Maurício Samy Silva. JavaScript: Guia do Programador. São Paulo: Novatec, 2010.](http://www.novatec.com.br/livros/javascript-guia-programador/)
 
-* HOGAN, Brian P. HTML 5 e CSS 3: Desenvolva hoje com o padrão de amanhã. Rio de Janeiro: Ciência Moderna, 2012.
+* [HOGAN, Brian P. HTML 5 e CSS 3: Desenvolva hoje com o padrão de amanhã. Rio de Janeiro: Ciência Moderna, 2012.](http://www.submarino.com.br/produto/111427411/html-5-e-css3-desenvolva-hoje-com-o-padrao-de-amanha)
 
 ## Bibliografia Complementar:
 
